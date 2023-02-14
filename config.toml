@@ -1,0 +1,4 @@
+baseURL = 'http://ibrahim5253.github.io/'
+languageCode = 'en-us'
+title = "Bebbu's Corner"
+theme = 'ananke'
