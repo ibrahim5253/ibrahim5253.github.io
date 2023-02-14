@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2023-02-14T21:44:50+05:30
-draft: true
+draft: false
 ---
 
 Hey, there! I'm Khadija - 20 something cute, little girl with bubbly, zealous personality. Among other things, I like to eat, sleep, and laugh - a lot! When I'm not doing any of those things, you can find me in my favorite corner under the sunny window in my cozy home memorizing the Holy Quran.
